@@ -2,6 +2,8 @@
 
 Particles transform into spiral visual when scrolling down the page.
 
+Live preview: https://ilicdj.github.io/spiral/
+
 ## Built With
 
 * [Three.js](https://threejs.org/) - The JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL.
